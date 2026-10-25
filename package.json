@@ -41,7 +41,8 @@
     "node": ">=20"
   },
   "scripts": {
-    "selftest": "node scripts/selftest.mjs"
+    "selftest": "node scripts/selftest.mjs",
+    "smoke": "node scripts/tabs-smoke.mjs"
   },
   "dsh": {
     "bundle": {
