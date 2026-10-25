@@ -12,6 +12,16 @@
 
 包名 `@dsh-external/pcl-toolbox`，插件 id `pcl-toolbox`，侧栏入口「PCL 工具箱」，版本 0.4.0。
 
+## 宣传片
+
+47 秒，1080p30。所有数字都来自本机的真实验证，不是示意。
+
+[![宣传片](docs/promo/poster.png)](docs/promo/pcl-toolbox-promo.mp4)
+
+- 视频：`docs/promo/pcl-toolbox-promo.mp4`（5.4 MB，含合成配乐）
+- 分镜联排图：`docs/promo/frames.jpg`
+- 分镜：开场 → 一键启动 → 崩溃诊断/脱敏 → 模组市场与整合包 → 下载源测速 → 可验证性 → 合规署名 → 尾帧
+
 ## 合规与许可（重要）
 
 本插件按《PCL 存储库合理使用指南》中「重度使用」的要求逐条落实：
