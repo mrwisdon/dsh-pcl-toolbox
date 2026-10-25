@@ -5,7 +5,7 @@
 >
 > - PCL 作者署名：**龙腾猫跃（LTCat）** · 赞助：<https://meloong.com/afd/a/LTCat>
 > - 本仓库**不含 PCL 的任何源代码、二进制或美术资源**（PCL 为 VB.NET，本插件为 JS 独立实现）
-> - 许可证：本插件源码 CC BY-SA 4.0（见 [LICENSE](LICENSE)）；同时附带 PCL 的《LICENCE》原文（见 [PCL-LICENCE.md](PCL-LICENCE.md)）
+> - 许可证：**MIT**（见 [LICENSE](LICENSE)）；同时附带 PCL 的《LICENCE》原文（见 [PCL-LICENCE.md](PCL-LICENCE.md)）
 > - 详见 [NOTICE](NOTICE) 与插件内「关于」页
 
 源码仓库：<https://github.com/mrwisdon/dsh-pcl-toolbox>

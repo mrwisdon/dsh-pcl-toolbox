@@ -36,7 +36,7 @@
     "fabric",
     "neoforge"
   ],
-  "license": "CC-BY-SA-4.0",
+  "license": "MIT",
   "engines": {
     "node": ">=20"
   },

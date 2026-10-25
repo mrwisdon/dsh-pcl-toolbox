@@ -71,7 +71,7 @@
 
 - **改名**：软件名 → 「PCL 工具箱（第三方修改版）」；包名 `@dsh-external/dsh-pcl-launch` → `@dsh-external/pcl-toolbox`；
   插件 id → `pcl-toolbox`；侧栏 → 「PCL 工具箱」；目录 → `Desktop\blender\pcl-toolbox`（已重新安装到 profile）
-- **合规文件**：`NOTICE`（第三方声明 + 署名 + 赞助链接 + 无 PCL 源码说明）、`LICENSE`（CC BY-SA 4.0）、
+- **合规文件**：`NOTICE`（第三方声明 + 署名 + 赞助链接 + 无 PCL 源码说明）、`LICENSE`（MIT）、
   `PCL-LICENCE.md`（PCL 原 `LICENCE` 原文）
 - **关于页**：新增第 6 个页签，**首位**即龙腾猫跃署名 + 赞助/官网按钮
 - **启动前检查**：`lib/precheck.js` 实现 `McLaunchPrecheck` 等价逻辑 —— `!`/`;` 路径拒绝；

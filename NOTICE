@@ -41,8 +41,14 @@ PCL 以 VB.NET 实现；本软件以 TypeScript/JavaScript 独立实现，仅参
 
 许可证说明（SPDX）
 --------------------
-本仓库源代码、文档与媒体素材以 CC BY-SA 4.0 授权：
-  SPDX-License-Identifier: CC-BY-SA-4.0
-LICENSE 文件是 creativecommons.org 提供的该协议法定文本（逐字原文，未改动）。
-同时按 PCL《合理使用指南》继续附带 PCL 的 LICENCE（见 PCL-LICENCE.md）——
-那是 PCL 作者的条款，不是开源许可，也不因本仓库的 CC BY-SA 授权而改变。
+本仓库源代码、文档与宣传素材以 MIT 许可协议授权：
+  SPDX-License-Identifier: MIT
+LICENSE 文件是 MIT 协议标准文本（逐字原文，未改动）。
+
+同时，本工具「参考 PCL 重实现了其实质功能」这一点仍受 PCL 的《LICENCE》约束
+（见 PCL-LICENCE.md：《PCL 分发有限许可》+《PCL 存储库合理使用指南》）。
+那是 PCL 作者自己的条款，不是本仓库的开源许可，也不因本仓库采用 MIT 而改变：
+署名（龙腾猫跃 LTCat）、名称规范、关于页首位署名与赞助链接、启动前正版/赞助劝导、
+蓝色主色与无赞助解锁——这些义务依然成立。
+
+换言之：**代码用 MIT，关系仍按 PCL 指南**。
