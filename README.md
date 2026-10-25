@@ -8,6 +8,8 @@
 > - 许可证：本插件源码 CC BY-SA 4.0（见 [LICENSE](LICENSE)）；同时附带 PCL 的《LICENCE》原文（见 [PCL-LICENCE.md](PCL-LICENCE.md)）
 > - 详见 [NOTICE](NOTICE) 与插件内「关于」页
 
+源码仓库：<https://github.com/mrwisdon/dsh-pcl-toolbox>
+
 包名 `@dsh-external/pcl-toolbox`，插件 id `pcl-toolbox`，侧栏入口「PCL 工具箱」，版本 0.4.0。
 
 ## 合规与许可（重要）

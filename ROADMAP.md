@@ -79,6 +79,7 @@
 - **BMCLAPI 规范**：统一 UA、下载并发默认 8（原 16 曾触发 429）
 - 实测：路径校验放行/拒绝各 2 例；`launches` 预置 2 → 启动一次返回 `hints=[('buy',3)]`；
   `selftest` 14 组 + 8 个 jsdom 套件全绿；`/mc/advice` 返回署名与两个链接
+- **已开源**：<https://github.com/mrwisdon/dsh-pcl-toolbox>（SSH over 443 推送，`main` = `de6e45b`）
 
 ## round 12 落点（收口）
 

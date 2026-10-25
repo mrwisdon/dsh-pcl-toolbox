@@ -83,8 +83,8 @@
 
 另：BMCLAPI 请求统一 UA、并发默认 8（曾 16 并发触发 429）；Modrinth 已带 UA。
 
-**发布前还剩的事项（你侧）**：建 GitHub 仓库（建议名 `pcl-toolbox`）、确认仓库内保留
-`LICENSE` / `NOTICE` / `PCL-LICENCE.md`、把 `mirror.js` 里 `DEFAULT_USER_AGENT` 的仓库占位换成真实地址。
+**仓库**：已发布到 <https://github.com/mrwisdon/dsh-pcl-toolbox>（`main`，50 个文件，含
+`LICENSE` / `NOTICE` / `PCL-LICENCE.md`）。`mirror.js` 的 `DEFAULT_USER_AGENT` 已指向该仓库。
 
 ## 七、代码结构（32 个 lib 模块 / 约 1.36 万行）
 
