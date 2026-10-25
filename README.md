@@ -499,4 +499,11 @@ node scripts/selftest.mjs --run --version=26.2
 
 ## 许可
 
-MIT。图标为本项目自绘 SVG。
+- **本项目代码、文档与宣传素材：MIT**（见 [LICENSE](LICENSE)，标准 MIT 文本）
+- 署名与第三方关系说明：[NOTICE](NOTICE)（含 `SPDX-License-Identifier: MIT`）
+- 附带 PCL 的《LICENCE》原文：[PCL-LICENCE.md](PCL-LICENCE.md)
+  —— 那是 PCL 作者自己的条款，约束的是「参考 PCL 重实现了它的实质功能」这件事，
+  **不因本仓库采用 MIT 而改变**（署名、名称规范、关于页署名与赞助链接、启动前劝导、蓝色主色）
+- 图标 `icon.svg` 为本项目自绘 SVG，不含 PCL 美术资源
+
+一句话：**代码用 MIT，和 PCL 的关系仍按 PCL 的指南。**
