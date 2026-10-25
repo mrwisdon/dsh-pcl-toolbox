@@ -1,0 +1,27 @@
+# 运行时状态（含账号令牌，绝不入库）
+.mc-launch/
+.pcl-launch/
+mc-launch.config.json
+pcl-launch.config.json
+.mc-download/
+.mc-downloader/
+
+# 实例侧的本地产物（若仓库根被当成游戏目录时）
+.dsh-backups/
+.dsh-trash/
+.dsh-crash-share/
+logs/
+crash-reports/
+
+# 依赖与构建产物
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

@@ -1,0 +1,70 @@
+{
+  "name": "@dsh-external/pcl-toolbox",
+  "version": "0.4.0",
+  "private": false,
+  "description": "DSH 插件：Minecraft 工具箱的第三方重实现（PCL 工具箱 / 第三方修改版）。启动页发现实例、选 Java、拼参数、解压 natives、启动与日志；下载页经 BMCLAPI 镜像按 sha1 校验下载；另有实例内容管理、崩溃分析与脱敏分享、加载器安装、Java 运行时、模组市场、整合包、导出、备份、设置与测速。功能设计参考龙腾猫跃（LTCat）的 Plain Craft Launcher，不含其源代码。",
+  "type": "module",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "scripts",
+    "cordis.patch.yml",
+    "dsh.plugin.json",
+    "mc-launch.config.example.json",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "NOTICE",
+    "LICENSE",
+    "PCL-LICENCE.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "minecraft",
+    "launcher",
+    "downloader",
+    "bmclapi",
+    "forge",
+    "fabric",
+    "neoforge"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "selftest": "node scripts/selftest.mjs"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-slots"
+      ]
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh-client-ui-slots": "*",
+    "react": "^18.2.0"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/dsh-client-ui-slots": {
+      "optional": true
+    },
+    "react": {
+      "optional": true
+    }
+  }
+}

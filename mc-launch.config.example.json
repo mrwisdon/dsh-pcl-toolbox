@@ -1,0 +1,13 @@
+{
+  "minecraftDir": "%APPDATA%\\.minecraft",
+  "memoryMb": 4096,
+  "username": "",
+  "uuid": "",
+  "accessToken": "",
+  "java": "",
+  "gameDirMode": "isolated",
+  "extraJvmArgs": [],
+  "selectedVersion": "",
+  "msClientId": "",
+  "msFlow": "auth-code"
+}

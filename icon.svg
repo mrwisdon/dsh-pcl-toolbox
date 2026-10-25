@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Minecraft Toolbox">
+  <title>Minecraft Toolbox</title>
+  <defs>
+    <clipPath id="mc-toolbox-round"><rect x="2" y="2" width="60" height="60" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#mc-toolbox-round)">
+    <rect x="2" y="2" width="60" height="60" fill="#2b5f26"/>
+    <rect x="2" y="2" width="60" height="22" fill="#63b443"/>
+    <rect x="2" y="22" width="60" height="3" fill="#4a9631"/>
+  </g>
+  <path d="M18 20 L36 30.5 L18 41 Z" fill="#ffffff"/>
+  <g fill="none" stroke="#7dd3fc" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 20 V34"/>
+    <path d="M40 28 L46 35 L52 28"/>
+    <path d="M40 43 H52"/>
+  </g>
+</svg>

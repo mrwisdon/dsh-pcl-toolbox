@@ -1,0 +1,21 @@
+PCL 工具箱（第三方修改版）
+Copyright (c) 2026 PCL Toolbox contributors
+
+本作品采用「知识共享 署名-相同方式共享 4.0 国际许可协议」(CC BY-SA 4.0) 授权。
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+许可协议全文 / Full legal code:
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+人类可读摘要 / Human-readable summary:
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+你可以自由地共享（以任何媒介或格式复制、发行本作品）与演绎（修改、转换或以本作品为基础创作），
+但须遵守以下条件：
+  - 署名（Attribution）：保留作者署名与来源说明，注明是否作出修改。
+  - 相同方式共享（ShareAlike）：若你修改、转换或以本作品为基础创作，须以相同许可协议分发你的贡献。
+  - 不得附加额外限制。
+
+本作品基于龙腾猫跃（LTCat）开发的 Plain Craft Launcher（PCL）的功能设计独立重实现，
+不包含 PCL 的源代码、二进制或美术资源。PCL 自身的许可与条款见 PCL-LICENCE.md。
+署名与赞助链接见 NOTICE 与插件内「关于」页首位。

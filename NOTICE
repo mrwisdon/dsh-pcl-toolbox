@@ -1,0 +1,40 @@
+PCL 工具箱（第三方修改版） / PCL Toolbox (third-party modification)
+==================================================================
+
+本软件是**第三方基于 PCL 独立进行的二次创作**，与 PCL 官方无隶属、合作或授权关系，
+也不代表 PCL 官方。名称按《PCL 存储库合理使用指南》二·重度使用 第 2 条命名：
+以 Plain Craft Launcher（PCL）开头，并附「（第三方修改版）」后缀以示区别。
+
+作者署名（指南二·重度使用 第 3 条，亦见「关于」页首位）
+--------------------------------------------------------
+  PCL 作者：龙腾猫跃（LTCat）
+  PCL 官网：https://meloong.com/pcl
+  赞助链接：https://meloong.com/afd/a/LTCat
+
+关于源代码
+----------
+本软件**不包含 PCL 的任何源代码、二进制或美术资源**。
+PCL 以 VB.NET 实现；本软件以 TypeScript/JavaScript 独立实现，仅参考其功能行为与公开协议：
+  - Mojang 版本 JSON 的 rules 求值与 arguments 语义（公开规范）
+  - BMCLAPI 镜像的路径映射（公开接口）
+  - 各类文件的校验、重试、限流处理策略（功能行为）
+经机械比对，本仓库代码与 PCL 源码**无任何中文文案逐字重合**（双方各 ≥8 字符的字符串交集为 0），
+图标为自绘 SVG。
+
+许可证
+------
+本软件源码以 CC BY-SA 4.0 发布，全文见 LICENSE。
+同时按指南二·重度使用 第 3 条「继续使用本文件作为指南」的要求，附带 PCL 的《LICENCE》原文，
+见 PCL-LICENCE.md（《PCL 分发有限许可》+《PCL 存储库合理使用指南》）。
+
+正版与赞助劝导
+--------------
+本软件在启动 Minecraft 前实现了与 PCL `McLaunchPrecheck` 一致（且更显眼）的劝导逻辑：
+  - 路径合法性检查（不得包含 ! 或 ;）
+  - 按启动次数提示购买正版（登录正版账号后不再提示）
+  - 按启动次数提示赞助 PCL 作者
+实现见 lib/precheck.js。
+
+致谢
+----
+  BMCLAPI（bangbang93）· Modrinth · Mojang / Microsoft · 龙腾猫跃（LTCat）

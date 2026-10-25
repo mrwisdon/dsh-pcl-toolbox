@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "PCL Toolbox (third-party modification)",
+    "description": "Third-party reimplementation of Plain Craft Launcher behaviour (no PCL source code). Six tabs: launch, instances & crash analysis, mod market & modpacks, version download, settings & speed test."
+  }
+}

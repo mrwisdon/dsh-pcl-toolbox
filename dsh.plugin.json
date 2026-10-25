@@ -1,0 +1,16 @@
+{
+  "id": "pcl-toolbox",
+  "name": "PCL 工具箱（第三方修改版）",
+  "version": "0.4.0",
+  "description": "PCL 工具箱（第三方修改版）：功能设计移植自龙腾猫跃（LTCat）的 Plain Craft Launcher，不包含 PCL 源代码。启动/下载/实例管理/崩溃分析/加载器/Java/模组市场/整合包/导出/备份/设置/测速。",
+  "platform": "web",
+  "entry": "lib/index.js",
+  "client": "lib/client.js",
+  "license": "CC-BY-SA-4.0",
+  "categories": [
+    "game"
+  ],
+  "capabilities": {
+    "webServer": true
+  }
+}

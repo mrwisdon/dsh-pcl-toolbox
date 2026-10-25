@@ -1,0 +1,5 @@
+# @dsh-external/pcl-toolbox 的 bundle 层：把本插件插进 profile 的插件树。
+# 装配方式：profile 的 dsh.profile.bundles 里加入本包名，装配时会插入下面这行。
+- insert:
+    - id: pcl-toolbox
+      name: '@dsh-external/pcl-toolbox'
