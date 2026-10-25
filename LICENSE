@@ -1,17 +1,3 @@
-PCL 工具箱（第三方修改版） / PCL Toolbox (third-party modification)
-Copyright (c) 2026 PCL Toolbox contributors
-
-SPDX-License-Identifier: CC-BY-SA-4.0
-
-本仓库的源代码、文档与媒体素材（docs/promo 等）均以 Creative Commons
-Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）授权，全文如下。
-
-注意：本仓库不包含 PCL 的任何源代码/二进制/美术资源，但**继续附带 PCL 的
-《LICENCE》**（见 PCL-LICENCE.md）作为使用约束说明——那是 PCL 作者自己的条款，
-不是开源许可，也不因本文件而改变。
-
---------------------------------------------------------------------------------
-
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
@@ -439,3 +425,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
